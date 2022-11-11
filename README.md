@@ -35,10 +35,6 @@ alt="My Instagram profile" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-alt="Bootstrap" width="40" height="40"/> </a>
-  
 <a href="https://lenguajehtml.com/html/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" 
 alt="HTML5" width="40" height="40"/> </a>
@@ -48,7 +44,7 @@ alt="HTML5" width="40" height="40"/> </a>
 alt="CSS" width="40" height="40"/> </a>  
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
 alt="Javascript" width="40" height="40"/> </a>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
@@ -56,3 +52,7 @@ alt="MySQL" width="40" height="40"/> </a>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+alt="Bootstrap" width="40" height="40"/> </a>
