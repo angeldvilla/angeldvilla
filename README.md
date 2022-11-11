@@ -40,11 +40,11 @@ alt="My Instagram profile" height="30" width="40" /></a>
 alt="Bootstrap" width="40" height="40"/> </a>
   
 <a href="https://lenguajehtml.com/html/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" 
 alt="HTML5" width="40" height="40"/> </a>
   
 <a href="https://lenguajecss.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" 
 alt="CSS" width="40" height="40"/> </a>  
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
