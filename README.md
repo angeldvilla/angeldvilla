@@ -18,17 +18,10 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/angel-david-villa-luján-396634255/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-alt="My Linkedin profile" height="30" width="40" /></a>
-
-<a href="https://twitter.com/advl_03" target="_blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-alt="My Twitter Profile" height="30" width="40" /></a>
-
-<a href="instagram.com/_angeldvilla_/" target="_blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-alt="My Instagram profile" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/angel-david-villa-luján-396634255/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Linkedin profile" height="30" width="40" /></a>
+<a href="https://twitter.com/advl_03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Twitter Profile" height="30" width="40" /></a>
+<a href="instagram.com/_angeldvilla_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="My Instagram profile" height="30" width="40" /></a>
+</p>  
 
 <br> <hr>
 
@@ -46,21 +39,15 @@ alt="CSS" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
 alt="Javascript" width="40" height="40"/> </a>
-
+ 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
 alt="MySQL" width="40" height="40"/> </a>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+alt="PhP" width="40" height="40"/> </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
 alt="Bootstrap" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
