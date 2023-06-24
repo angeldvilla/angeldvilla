@@ -52,7 +52,7 @@ alt="PhP" width="40" height="40"/> </a>
 alt="Bootstrap" width="40" height="40"/> </a> 
 
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg)https://cdn.worldvectorlogo.com/logos/react-2.svg" 
-alt="React" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+alt="ReactJS" width="40" height="40"/> </a> 
 
 </p>
