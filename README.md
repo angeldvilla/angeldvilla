@@ -35,6 +35,11 @@ alt="HTML5" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" 
 alt="CSS" width="40" height="40"/> </a>  
 
+<a href="https://lesscss.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/w3_lesscss/w3_lesscss-icon.svg" 
+alt="LESS" width="40" height="40"/> </a> 
+
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
 alt="Javascript" width="40" height="40"/> </a>
