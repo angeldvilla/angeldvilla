@@ -49,4 +49,10 @@ alt="PhP" width="40" height="40"/> </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-alt="Bootstrap" width="40" height="40"/> </a> </p>
+alt="Bootstrap" width="40" height="40"/> </a> 
+
+<a href="https://react.dev" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg)https://cdn.worldvectorlogo.com/logos/react-2.svg" 
+alt="React" width="40" height="40"/> </a> 
+
+</p>
