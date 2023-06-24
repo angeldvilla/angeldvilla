@@ -58,4 +58,10 @@ alt="ReactJS" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
 alt="Redux" width="40" height="40"/> </a> 
+
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" 
+alt="Redux" width="40" height="40"/> </a> 
+
+
 </p>
