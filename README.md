@@ -36,7 +36,7 @@ alt="HTML5" width="40" height="40"/> </a>
 alt="CSS" width="40" height="40"/> </a>  
 
 <a href="https://lesscss.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lesscss/lesscss-original.svg" 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-original.svg" 
 alt="LESS" width="40" height="40"/> </a> 
 
 
