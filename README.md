@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">Hello everyone, I'm Angel Villa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="35"></img></div> 
+### <div align="center">Hello everyone, I'm Angel Villa </div> 
 
 <h3 align="center"> a 7-semester college student of Systems Engineering and a Henry student currently.</h3>
   
+<br/>
 
 <div align="center">🔭 I am currently working on my life, focused on my future.</div>  
   
-
 <div align="center">🌱 I am currently learning web development at Henry</div>  
 
 <div align="center">👯 I am looking to collaborate on new projects and challenges for my life in technology</div> 
@@ -109,21 +109,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angeldvilla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
   
 
 <br/>  
