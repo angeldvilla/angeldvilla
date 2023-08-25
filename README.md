@@ -1,15 +1,12 @@
-<h1 align="center" font="Open+sans">Hello everyone, I'm Angel Villa <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="35"
-  /></h1>
- 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 48px></picture> 
+<h1 align="center" font="Open+sans">Hello everyone, I'm Angel Villa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="35"/> </h1>
+
+<p align="center">
+https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22
+</p>
+
 **About me**
 <h3 align="center"> a 7-semester college student of Systems Engineering and a Henry student currently.</h3>
-
-<br>
-<br>
-
+-------
 - 🔭 I am currently working on my life, focused on my future.
 - 🌱 I am currently learning web development at Henry
 - 👯 I am looking to collaborate on new projects and challenges for my life in technology
