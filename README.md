@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello everyone, I'm Angel Villa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="35"/></div> 
+### <div align="center">Hello everyone, I'm Angel Villa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="35"></img></div> 
 
 <h3 align="center"> a 7-semester college student of Systems Engineering and a Henry student currently.</h3>
   
