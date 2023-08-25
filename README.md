@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello everyone, I'm Angel Villa</div> 
+### <div align="center">Hello everyone, I'm Angel Villa 👋 </div> 
 
 <h3 align="center"> a 7-semester college student of Systems Engineering and a Henry student currently.</h3>
   
