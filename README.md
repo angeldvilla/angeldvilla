@@ -10,24 +10,34 @@
 <br/>
 
 <ul>
+  
 <li>
-  
+<div align="center">💻Mi enfoque actual radica en mejorar tanto en el ámbito personal como en el profesional. Siempre estoy buscando oportunidades para aprender y crecer. Mis siete semestres de Ingeniería de Sistemas me han proporcionado una base sólida, y mi participación en Henry está reforzando mis habilidades en desarrollo web a través de la creación de proyectos concretos.</div>
+</li>
 
-<div align="center">💻Mi enfoque actual radica en mejorar tanto en el ámbito personal como en el profesional. Siempre estoy buscando oportunidades para aprender y crecer. Mis siete semestres de Ingeniería de Sistemas me han proporcionado una base sólida, y mi participación en Henry está reforzando mis habilidades en desarrollo web a través de la creación de proyectos concretos.</div>  
-  
-<div align="center">🧠 En este momento, estoy sumergiéndome en el emocionante mundo del desarrollo web. A lo largo de este proceso, estoy trabajando en diversos proyectos que abarcan desde aplicaciones web hasta sitios interactivos. Mi enfoque se centra en la creación de pequeños proyectos, lo que me permite aplicar mis conocimientos de manera práctica y fortalecer mi comprensión de los conceptos fundamentales.</div>  
+<li>
+<div align="center">🧠 En este momento, estoy sumergiéndome en el emocionante mundo del desarrollo web. A lo largo de este proceso, estoy trabajando en diversos proyectos que abarcan desde aplicaciones web hasta sitios interactivos. Mi enfoque se centra en la creación de pequeños proyectos, lo que me permite aplicar mis conocimientos de manera práctica y fortalecer mi comprensión de los conceptos fundamentales.</div>    
+</li>
 
-<div align="center">👯‍♂️ Me encanta el trabajo en equipo y estoy emocionado por la posibilidad de colaborar en proyectos innovadores. Creo que cada desafío es una oportunidad para crecer y aprender, y estoy ansioso por enfrentar nuevos retos en el campo de la tecnología.</div> 
+<li>
+<div align="center">👯‍♂️ Me encanta el trabajo en equipo y estoy emocionado por la posibilidad de colaborar en proyectos innovadores. Creo que cada desafío es una oportunidad para crecer y aprender, y estoy ansioso por enfrentar nuevos retos en el campo de la tecnología.</div>   
+</li>
 
-<div align="center">💡 Siempre estoy buscando formas de mejorar y aprender, y eso incluye hacer preguntas y compartir conocimientos dentro de la comunidad. Para mí, la comunidad es un recurso invaluable que impulsa mi crecimiento, junto con las documentaciones oficiales.</div> 
+<li>
+<div align="center">💡 Siempre estoy buscando formas de mejorar y aprender, y eso incluye hacer preguntas y compartir conocimientos dentro de la comunidad. Para mí, la comunidad es un recurso invaluable que impulsa mi crecimiento, junto con las documentaciones oficiales.</div>   
+</li>
 
+<li>
 <div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com. También puedes encontrarme en las redes sociales:
 
 Instagram: @angeldvilla
-Twitter: @advl_03</div> 
+Twitter: @advl_03</div>
+</li>
 
+<li>
 <div align="center">🎈 Dato curioso: A pesar de mi enfoque en la ingeniería y la programación, tengo un amor apasionado por la música y sueño con destacar en el mundo de la producción musical.</div> 
 </li>
+
 </ul>
   
 <br/>  
