@@ -1,36 +1,34 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73531&width=435&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hello everyone, I'm Angel Villa 👋 </div> 
+### <div align="center">Hola a Todos, Soy Angel David Villa Luján 👋 </div> 
 
-<h3 align="center"> a 7-semester college student of Systems Engineering and a Henry student currently.</h3>
+<h3 align="center">🚀 Estudiante de Ingenieria de Sistemas y Apasionado por el Desarrollo Web </h3>
   
 <br/>
 
-<div align="center">🔭 I am currently working on my life, focused on my future.</div>  
+<div align="center">💻Mi enfoque actual radica en mejorar tanto en el ámbito personal como en el profesional. Siempre estoy buscando oportunidades para aprender y crecer. Mis siete semestres de Ingeniería de Sistemas me han proporcionado una base sólida, y mi participación en Henry está reforzando mis habilidades en desarrollo web a través de la creación de proyectos concretos.</div>  
   
-<div align="center">🌱 I am currently learning web development at Henry</div>  
+<div align="center">🧠 En este momento, estoy sumergiéndome en el emocionante mundo del desarrollo web. A lo largo de este proceso, estoy trabajando en diversos proyectos que abarcan desde aplicaciones web hasta sitios interactivos. Mi enfoque se centra en la creación de pequeños proyectos, lo que me permite aplicar mis conocimientos de manera práctica y fortalecer mi comprensión de los conceptos fundamentales.</div>  
 
-<div align="center">👯 I am looking to collaborate on new projects and challenges for my life in technology</div> 
+<div align="center">👯‍♂️ Me encanta el trabajo en equipo y estoy emocionado por la posibilidad de colaborar en proyectos innovadores. Creo que cada desafío es una oportunidad para crecer y aprender, y estoy ansioso por enfrentar nuevos retos en el campo de la tecnología.</div> 
 
-<div align="center">🤔 I am looking for help with many development issues and ask a lot about specific doubts</div> 
+<div align="center">💡 Siempre estoy buscando formas de mejorar y aprender, y eso incluye hacer preguntas y compartir conocimientos dentro de la comunidad. Para mí, la comunidad es un recurso invaluable que impulsa mi crecimiento, junto con las documentaciones oficiales.</div> 
 
-<div align="center">💬 Ask me about how my day is, and how I survive my daily routine</div> 
+<div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com. También puedes encontrarme en las redes sociales:
 
-<div align="center">📫 How to contact me: well I have my email -> escarlata.2003@gmail.com, since I deleted networks so as not to procrastinate</div> 
+Instagram: @angeldvilla
+Twitter: @advl_03</div> 
 
-<div align="center">😄 Pronouns: you can call me Dreikar, it's my "stage" name</div> 
-
-<div align="center">⚡ Fun fact: I'm a university and programming student, but at the same time I dream of excelling in rap/hip-hop</div> 
+<div align="center">🎈 Dato curioso: A pesar de mi enfoque en la ingeniería y la programación, tengo un amor apasionado por la música y sueño con destacar en el mundo de la producción musical.</div> 
   
   
-
 <br/>  
 
 
-## My Skill Set  
+## Lenguajes y Herramientas  
 <table><tr><td valign="top" width="33%">
 
 
@@ -85,7 +83,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contáctame  
 <div align="center">
 <a href="https://github.com/angeldvilla" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GitHub profile" height="30" width="30"/>
@@ -105,7 +103,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadisticas de GitHub  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angeldvilla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&hide_border=true&layout=compact" align="center" /></div>  
