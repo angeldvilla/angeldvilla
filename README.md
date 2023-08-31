@@ -119,11 +119,11 @@ Twitter: @advl_03</div>
 
 
 ## Estadisticas de GitHub  
-<div style="background-color: #f2f2f2; padding: 20px;" align="center">
+<div style="background-color: black; color= white;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angeldvilla&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </div>  
 
-<div style="background-color: #f2f2f2; padding: 20px;" align="center">
+<div style="background-color: black; color= white;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&hide_border=true&layout=compact" align="center" />
 </div>  
   
