@@ -30,8 +30,8 @@
 <li>
 <div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com. También puedes encontrarme en las redes sociales:
 
-Instagram: @angeldvilla
-Twitter: @advl_03</div>
+🔸Instagram: @angeldvilla
+🔹Twitter: @advl_03</div>
 </li>
 <br/>
 <li>
@@ -43,7 +43,7 @@ Twitter: @advl_03</div>
 <br/>  
 
 
-## Lenguajes y Herramientas  
+## 🛠 Lenguajes y Herramientas  
 <table><tr><td valign="top" width="33%">
 
 
@@ -98,7 +98,7 @@ Twitter: @advl_03</div>
 <br/>  
 
 
-## Contáctame  
+## 📩 Contáctame  
 <div align="center">
 <a href="https://github.com/angeldvilla" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GitHub profile" height="30" width="30"/>
@@ -118,13 +118,13 @@ Twitter: @advl_03</div>
 <br/>  
 
 
-## Estadisticas de GitHub  
+## 📈 Estadisticas de GitHub  
 <div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeldvilla&show_icons=true&count_private=true&hide_border=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=angeldvilla&show_icons=true&locale=en&theme=tokyonight" align="center"/>
 </div>  
 
 <div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angeldvilla&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" />
 </div>  
   
 
