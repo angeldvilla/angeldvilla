@@ -1,13 +1,12 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73531&width=435&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hola a Todos, Soy Angel David Villa Luján 👋 </div> 
 
 <h3 align="center">🚀 Estudiante de Ingenieria de Sistemas y Apasionado por el Desarrollo Web </h3>
   
 <br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73531&width=435&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
+</div>  
 
 <ul>
   
@@ -28,7 +27,7 @@
 </li>
 <br/>
 <li>
-<div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com. También puedes encontrarme en las redes sociales:
+<div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com
 </div>
 </li>
 </ul>
@@ -102,9 +101,6 @@
 <a href="https://instagram.com/_angeldvilla_" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram profile" height="30" width="40" />
 </a>
-<a href="https://twitter.com/advl_03" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter Profile" height="30" width="40" />
-</a>  
 </div>  
   
 
