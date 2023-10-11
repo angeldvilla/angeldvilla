@@ -29,15 +29,8 @@
 <br/>
 <li>
 <div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com. También puedes encontrarme en las redes sociales:
-
-🔸Instagram: @angeldvilla
-🔹Twitter: @advl_03</div>
+</div>
 </li>
-<br/>
-<li>
-<div align="center">🎈 Dato curioso: A pesar de mi enfoque en la ingeniería y la programación, tengo un amor apasionado por la música y sueño con destacar en el mundo de la producción musical.</div> 
-</li>
-
 </ul>
   
 <br/>  
