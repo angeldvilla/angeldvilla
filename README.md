@@ -6,7 +6,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73531&width=435&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
-</div>  
+</div>  <br/>
 
 <ul>
   
