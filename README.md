@@ -5,9 +5,9 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73531&width=435&lines=Full-Stack+Web+Developer;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F73531&width=435&lines=DESARROLLADOR%20WEB;FULL-STACK;FRONT-END&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
 </div>  <br/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <ul>
   
 <li>
@@ -36,84 +36,182 @@
 
 
 ## 🛠 Lenguajes y Herramientas  
-<table><tr><td valign="top" width="33%">
+<table align="center">
+  <tr>
+    <td align="center"  width="96">
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      </a>  
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="reactjs" width="40" height="40" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://redux.js.org/">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="reduxjs" width="40" height="40" />
+      </a>
+      <br>Redux
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.ionicframework.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="ionic" width="40" height="40" />
+      </a>
+      <br>Ionic
+    </td>
+    <td align="center" width="96">
+      <a href="https://mui.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mui" alt="material-ui" width="40" height="40" />
+      </a>
+      <br>Material-UI
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tailwindcss.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwindcss" width="40" height="40" />
+      </a>
+      <br>TailwindCSS
+    </td>
+<!--     <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" width="40" height="40" />
+      </a>
+      <br>Figma
+    </td> -->
+   <!--  <td align="center" width="96">
+      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+        <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
+      </a>
+      <br>Adobe Photoshop
+    </td> -->
+  </tr>
+  <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="c++" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
+      <br>PHP
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="40" height="40" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+      <br>jQuery
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
+      <br>Nodejs
+      </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="expressjs" />
+      <br>Express
+      </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+
+ <tr>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+      <br>Github
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="apache" width="40" height="40" />
+        <br>XAMPP
+    </td>
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />
+      <br>Docker
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" />
+      <br>Linux
+    </td>
+      <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
+      <br>AWS
+    </td>
+     <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" />
+      <br>Figma
+    </td>
+ </tr>
+</table>
+<br/><br/>  
 
 
+## 📩 Contáctame
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## 📩 Contáctame  
-<div align="center">
-<a href="https://github.com/angeldvilla" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GitHub profile" height="30" width="30"/>
-</a>
-<a href="https://linkedin.com/in/angel-david-villa-luján-396634255 " target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin profile" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_angeldvilla_" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram profile" height="30" width="40" />
-</a>
-</div>  
-  
+<p align="center">
+  <a href="https://github.com/angeldvilla" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="My GitHub profile" height="40" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/angel-david-villa-luján-396634255" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My Linkedin profile" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/_angeldvilla_" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="My Instagram profile" height="40" width="40" />
+  </a>  
+</p> 
 
 <br/>  
 
 
 ## 📈 Estadisticas de GitHub  
 <div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeldvilla&show_icons=true&locale=en&theme=tokyonight" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&theme=gotham&layout=compact" align="center" width="45%" />
 </div>  
+<br/>
 
 <div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angeldvilla&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=angeldvilla&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeldvilla&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" align="center"/>
 </div>  
   
 
@@ -123,3 +221,6 @@
 <br />
 
 ----
+<div align="center">
+  <i>"EL TRIUNFO NO ESTA EN VENCER SIEMPRE, SINO EN NUNCA DARSE POR VENCIDO!!!💪</b>"</i>
+</div>
