@@ -186,6 +186,21 @@
 <br/><br/>  
 
 
+
+## 📈 Estadisticas de GitHub  
+<div style="background-color: black; color= white;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&theme=gotham&layout=compact" align="center" width="45%" />
+</div>  
+<br/>
+
+<div style="background-color: black; color= white;" align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=angeldvilla&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeldvilla&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" align="center"/>
+</div> 
+
+<br/>  
+<br /> 
+
 ## 📩 Contáctame
 
 <p align="center">
@@ -200,27 +215,10 @@
   </a>  
 </p> 
 
-<br/>  
-
-
-## 📈 Estadisticas de GitHub  
-<div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&theme=gotham&layout=compact" align="center" width="45%" />
-</div>  
-<br/>
-
-<div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=angeldvilla&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeldvilla&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" align="center"/>
-</div>  
-  
-
-<br/>  
-
-
-<br />
+<br /> 
 
 ----
 <div align="center">
-  <i>"EL TRIUNFO NO ESTA EN VENCER SIEMPRE, SINO EN NUNCA DARSE POR VENCIDO!!!💪</b>"</i>
+  <i>"EL TRIUNFO NO ESTA EN VENCER SIEMPRE, SINO EN NUNCA DARSE POR VENCIDO!!!💪"</i><br/>
+  <i>©2023 HECHO POR ANGEL DAVID VILLA LUJÁN</i>
 </div>
