@@ -11,23 +11,23 @@
 <ul>
   
 <li>
-<div align="center">💻Mi enfoque actual radica en mejorar tanto en el ámbito personal como en el profesional. Siempre estoy buscando oportunidades para aprender y crecer. Mis siete semestres de Ingeniería de Sistemas me han proporcionado una base sólida, y mi participación en Henry está reforzando mis habilidades en desarrollo web a través de la creación de proyectos concretos.</div>
+<div align="center">💻Mi enfoque actual radica en mejorar tanto en el ámbito personal como en el profesional. Siempre estoy buscando oportunidades para aprender y crecer. Actualmente estoy cursando noveno semestre de Ingeniería de Sistemas, también participé en el Bootcamp de Henry ayudandome a reforzar mis habilidades en desarrollo web a través de la creación de proyectos concretos.</div>
 </li>
 <br/>
 <li>
-<div align="center">🧠 En este momento, estoy sumergiéndome en el emocionante mundo del desarrollo web. A lo largo de este proceso, estoy trabajando en diversos proyectos que abarcan desde aplicaciones web hasta sitios interactivos. Mi enfoque se centra en la creación de pequeños proyectos, lo que me permite aplicar mis conocimientos de manera práctica y fortalecer mi comprensión de los conceptos fundamentales.</div>    
+<div align="center">🧠 En este momento, estoy dedicado en el desarrollo web, luego podré ir abarcando la parte del desarrollo movil. A lo largo de este proceso, estoy trabajando en diversos proyectos como aplicaciones web. Mi enfoque se centra en la creación de sitios interactivos para el usuario, lo que me permite aplicar mis conocimientos de manera práctica y fortalecer mi comprensión de los conceptos fundamentales.</div>    
 </li>
 <br/>
 <li>
-<div align="center">👯‍♂️ Me encanta el trabajo en equipo y estoy emocionado por la posibilidad de colaborar en proyectos innovadores. Creo que cada desafío es una oportunidad para crecer y aprender, y estoy ansioso por enfrentar nuevos retos en el campo de la tecnología.</div>   
+<div align="center">👯‍♂️ Me encanta el trabajo en equipo y estoy emocionado por la posibilidad de colaborar en proyectos innovadores y enfrentar nuevos retos en el campo de la tecnología.</div>   
 </li>
 <br/>
 <li>
-<div align="center">💡 Siempre estoy buscando formas de mejorar y aprender, y eso incluye hacer preguntas y compartir conocimientos dentro de la comunidad. Para mí, la comunidad es un recurso invaluable que impulsa mi crecimiento, junto con las documentaciones oficiales.</div>   
+<div align="center">💡 Siempre estoy buscando formas de mejorar y aprender, y eso incluye ver cursos, tutoriales, buenas practicas de la comunidad de programación. Para mí, la comunidad es un recurso invaluable que impulsa mi crecimiento, junto con las documentaciones oficiales.</div>   
 </li>
 <br/>
 <li>
-<div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a escarlata.2003@gmail.com
+<div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a mi correo electrónico escarlata.2003@gmail.com
 </div>
 </li>
 </ul>
