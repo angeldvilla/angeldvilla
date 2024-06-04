@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F73531&width=435&lines=DESARROLLADOR%20WEB;FULL-STACK;FRONT-END&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BEE2FA&width=435&lines=DESARROLLADOR%20WEB;FULL-STACK;FRONT-END&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
 </div>  <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <ul>
