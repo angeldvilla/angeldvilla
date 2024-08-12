@@ -185,6 +185,31 @@
 </table>
 <br/><br/>  
 
+## 🛠 En aprendizaje 
+<table align="center">
+  <tr>
+    <td align="center"  width="96">
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="html5" />
+      </a>
+      <br>NextJs
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="css" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="javascript" width="40" height="40" />
+      </a>
+      <br>Laravel
+    </td>
+ </tr>
+</table>
+<br/><br/> 
+
 
 
 ## 📈 Estadisticas de GitHub  
