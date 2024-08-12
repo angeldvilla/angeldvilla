@@ -185,7 +185,7 @@
 </table>
 <br/><br/>  
 
-## 🛠 En aprendizaje 
+## 🧠 En aprendizaje 
 <table align="center">
   <tr>
     <td align="center"  width="96">
