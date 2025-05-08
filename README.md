@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-![BANNER LINKEDIN TC INGENIERIA](https://github.com/user-attachments/assets/378745a8-58c9-4ca8-97d2-e7f57d0ae423)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89151224/441793651-378745a8-58c9-4ca8-97d2-e7f57d0ae423.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250508T161116Z&X-Amz-Expires=300&X-Amz-Signature=aaf75be1ec95cdcacac5b6daf0dbc93db0009bb07bfe18bab804a06b6cf72799&X-Amz-SignedHeaders=host" width="800" />
 </div> <br />
 
 <div align="center">
