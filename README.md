@@ -5,10 +5,6 @@
 <br/>
 
 <div align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89151224/441793651-378745a8-58c9-4ca8-97d2-e7f57d0ae423.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250508T161116Z&X-Amz-Expires=300&X-Amz-Signature=aaf75be1ec95cdcacac5b6daf0dbc93db0009bb07bfe18bab804a06b6cf72799&X-Amz-SignedHeaders=host" width="800" />
-</div> <br />
-
-<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BEE2FA&width=435&lines=DESARROLLADOR%20WEB;FULL-STACK;FRONT-END&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
 </div>  <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
