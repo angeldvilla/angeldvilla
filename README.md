@@ -92,30 +92,18 @@
       </a>
       <br>Ionic
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="https://mui.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mui" alt="material-ui" width="40" height="40" />
       </a>
       <br>Material-UI
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://www.tailwindcss.com/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwindcss" width="40" height="40" />
       </a>
       <br>TailwindCSS
     </td>
-<!--     <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" width="40" height="40" />
-      </a>
-      <br>Figma
-    </td> -->
-   <!--  <td align="center" width="96">
-      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-        <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
-      </a>
-      <br>Adobe Photoshop
-    </td> -->
   </tr>
   <tr>
       <td align="center" width="96">
@@ -142,6 +130,12 @@
         <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="expressjs" />
       <br>Express
       </td>
+     <td align="center" width="96">
+       <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="javascript" width="40" height="40" />
+       </a>
+       <br>Laravel
+     </td>
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
       <br>MySQL
@@ -193,11 +187,17 @@
       <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" />
       <br>Figma
     </td>
+    <td align="center" width="96">
+      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+        <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
+      </a>
+      <br>Adobe Photoshop
+    </td>
  </tr>
 </table>
 <br/><br/>  
 
-## 🧠 En aprendizaje 
+<!-- ## 🧠 En aprendizaje 
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -207,8 +207,8 @@
       <br>Laravel
     </td>
  </tr>
-</table>
-<br/><br/> 
+</table> -->
+
 
 
 
