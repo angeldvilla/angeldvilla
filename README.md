@@ -56,6 +56,12 @@
       </a>
       <br>JavaScript
     </td>
+     <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="css" />
+      </a>
+      <br>Typescript
+    </td>
     <td align="center"  width="96">
       <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
@@ -73,6 +79,12 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="reduxjs" width="40" height="40" />
       </a>
       <br>Redux
+    </td>
+    <td align="center"  width="96">
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="html5" />
+      </a>
+      <br>NextJs
     </td>
       <td align="center" width="96">
       <a href="https://www.ionicframework.com/" target="_blank">
@@ -188,18 +200,6 @@
 ## 🧠 En aprendizaje 
 <table align="center">
   <tr>
-    <td align="center"  width="96">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="html5" />
-      </a>
-      <br>NextJs
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="css" />
-      </a>
-      <br>Typescript
-    </td>
     <td align="center" width="96">
       <a href="https://www.javascript.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=laravel" alt="javascript" width="40" height="40" />
