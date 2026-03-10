@@ -4,7 +4,7 @@
 
 ### Ingeniero en Sistemas · Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3A6CC8&width=600&height=50&size=22&center=true&vCenter=true&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Flutter;Building+scalable+web+%26+mobile+apps;Open+to+Remote+Opportunities+%F0%9F%8C%8E" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3A6CC8&width=600&height=50&size=22&center=true&vCenter=true&lines=Systems Engineer;Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Flutter;Building+scalable+web+%26+mobile+apps;Open+to+Remote+Opportunities+%F0%9F%8C%8E" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-david-villa-luján-396634255)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villaprivangell@gmail.com)
