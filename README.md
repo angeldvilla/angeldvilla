@@ -1,249 +1,110 @@
-### <div align="center">Hola a Todos, Soy Angel David Villa Luján 👋 </div> 
-
-<h3 align="center">🚀 Estudiante de Ingenieria de Sistemas y Apasionado por el Desarrollo Web </h3>
-  
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BEE2FA&width=435&lines=DESARROLLADOR%20WEB;FULL-STACK;FRONT-END&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25%22" align="center" style="width: 100%" />
-</div>  <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<ul>
-  
-<li>
-<div align="center">💻Mi enfoque actual radica en mejorar tanto en el ámbito personal como en el profesional. Siempre estoy buscando oportunidades para aprender y crecer. Actualmente estoy cursando noveno semestre de Ingeniería de Sistemas, también participé en el Bootcamp de Henry ayudandome a reforzar mis habilidades en desarrollo web a través de la creación de proyectos concretos.</div>
-</li>
-<br/>
-<li>
-<div align="center">🧠 En este momento, estoy dedicado en el desarrollo web, luego podré ir abarcando la parte del desarrollo movil. A lo largo de este proceso, estoy trabajando en diversos proyectos como aplicaciones web. Mi enfoque se centra en la creación de sitios interactivos para el usuario, lo que me permite aplicar mis conocimientos de manera práctica y fortalecer mi comprensión de los conceptos fundamentales.</div>    
-</li>
-<br/>
-<li>
-<div align="center">👯‍♂️ Me encanta el trabajo en equipo y estoy emocionado por la posibilidad de colaborar en proyectos innovadores y enfrentar nuevos retos en el campo de la tecnología.</div>   
-</li>
-<br/>
-<li>
-<div align="center">💡 Siempre estoy buscando formas de mejorar y aprender, y eso incluye ver cursos, tutoriales, buenas practicas de la comunidad de programación. Para mí, la comunidad es un recurso invaluable que impulsa mi crecimiento, junto con las documentaciones oficiales.</div>   
-</li>
-<br/>
-<li>
-<div align="center">📫 Si deseas ponerte en contacto, no dudes en escribirme a mi correo electrónico escarlata.2003@gmail.com
+
+# Ángel David Villa Luján
+
+### Ingeniero en Sistemas · Full-Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3A6CC8&width=600&height=50&size=22&center=true&vCenter=true&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Flutter;Building+scalable+web+%26+mobile+apps;Open+to+Remote+Opportunities+%F0%9F%8C%8E" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-david-villa-luján-396634255)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villaprivangell@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/angeldvilla?style=for-the-badge&color=1B2A4A)](https://github.com/angeldvilla)
+
 </div>
-</li>
-</ul>
-  
-<br/>  
 
+---
 
-## 🛠 Lenguajes y Herramientas  
-<table align="center">
-  <tr>
-    <td align="center"  width="96">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40" />
-      </a>
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="css" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center"  width="96">
-      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      </a>  
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="reactjs" width="40" height="40" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://redux.js.org/">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="reduxjs" width="40" height="40" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center"  width="96">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="html5" />
-      </a>
-      <br>NextJs
-    </td>
-      <td align="center" width="96">
-      <a href="https://www.ionicframework.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="ionic" width="40" height="40" />
-      </a>
-      <br>Ionic
-    </td>
-    <!-- <td align="center" width="96">
-      <a href="https://mui.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mui" alt="material-ui" width="40" height="40" />
-      </a>
-      <br>Material-UI
-    </td> -->
-    <td align="center" width="96">
-      <a href="https://www.tailwindcss.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwindcss" width="40" height="40" />
-      </a>
-      <br>TailwindCSS
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="c++" width="40" height="40" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
-      <br>PHP
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="40" height="40" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
-      <br>Nodejs
-      </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="expressjs" />
-      <br>Express
-      </td>
-     <td align="center" width="96">
-       <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="javascript" width="40" height="40" />
-       </a>
-       <br>Laravel
-     </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
+## 👨‍💻 Sobre mí
 
- <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-      <br>Github
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="apache" width="40" height="40" />
-        <br>XAMPP
-    </td>
-   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />
-      <br>Docker
-    </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" />
-      <br>Linux
-    </td>
-      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40" />
-      <br>AWS
-    </td>
-     <td align="center" width="96">
-      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-        <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
-      </a>
-      <br>Adobe Photoshop
-    </td>
- </tr>
-</table>
-<br/><br/>  
+Soy **Ingeniero en Sistemas** graduado (COTECNOVA, 2026) y **Desarrollador Web Full-Stack** con más de **3 años de experiencia** en el diseño, desarrollo e implementación de aplicaciones web y móviles escalables.
 
-<!-- ## 🧠 En aprendizaje 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="javascript" width="40" height="40" />
-      </a>
-      <br>Laravel
-    </td>
- </tr>
-</table> -->
+Me especializo en el ecosistema **JavaScript moderno** — React, Node.js y Express — así como en el desarrollo móvil multiplataforma con **Flutter**. He liderado proyectos end-to-end desde la arquitectura hasta el despliegue en producción, trabajando con empresas del sector salud, logística y seguros.
 
+- 🎓 **Ingeniero en Sistemas** — COTECNOVA (2026)
+- 💼 **+3 años** de experiencia en desarrollo web y móvil
+- 🌎 **Disponible para trabajo remoto** (full-time o freelance)
+- 🌱 Actualmente profundizando en **TypeScript avanzado** y **arquitecturas cloud**
+- 🤝 Abierto a colaborar en proyectos desafiantes e innovadores
+- 📫 **villaprivangell@gmail.com**
 
+---
 
+## 🛠 Stack Tecnológico
 
-## 📈 Estadisticas de GitHub  
-<div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&theme=gotham&layout=compact" align="center" width="45%" />
-</div>  
-<br/>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=angeldvilla&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeldvilla&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" align="center"/>
-</div> 
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<br/>  
-<br /> 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-## 📩 Contáctame
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/angeldvilla" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="My GitHub profile" height="40" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/angel-david-villa-luján-396634255" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My Linkedin profile" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/_angeldvilla_" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="My Instagram profile" height="40" width="40" />
-  </a>  
-</p> 
+### DevOps & Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br /> 
+---
 
-----
+## 🚀 Proyectos Destacados
+
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| 🗂 **Plataforma de Gestión Documental** | React · Node.js · MySQL · JWT | Sistema empresarial con control de roles, autenticación segura y notificaciones en tiempo real. Redujo tiempos de carga en un **30%** |
+| 🏥 **Ventanilla Única Virtual** | React · Express · MySQL | Sistema de gestión de archivos clínicos para hospitales públicos, sistematizando procesos administrativos de salud |
+| 🚖 **App Móvil de Pedidos de Taxi** | Flutter · WebSockets · Geolocalización | Aplicación multiplataforma con seguimiento de conductores en tiempo real y despliegue en Android |
+| 🚗 **Gestión de Pólizas Vehiculares** | React · REST APIs | Sistema web de cálculo y administración de pólizas de seguros con automatización de procesos |
+
+---
+
+## 📊 Estadísticas de GitHub
+
 <div align="center">
-  <i>"EL TRIUNFO NO ESTA EN VENCER SIEMPRE, SINO EN NUNCA DARSE POR VENCIDO!!!💪"</i><br/>
-  <i>©2024 HECHO POR ANGEL DAVID VILLA LUJÁN</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldvilla&theme=react&layout=compact&hide_border=true&bg_color=0D1117&title_color=3A6CC8&text_color=FFFFFF" width="38%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=angeldvilla&theme=react&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3A6CC8&icon_color=3A6CC8&text_color=FFFFFF&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="52%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeldvilla&theme=react&hide_border=true&background=0D1117&ring=3A6CC8&fire=3A6CC8&currStreakLabel=3A6CC8" width="55%" />
+</div>
+
+---
+
+## 📩 Contacto
+
+<div align="center">
+
+¿Tienes un proyecto en mente o una oportunidad de colaboración? No dudes en escribirme.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angel-david-villa-luján-396634255)
+[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villaprivangell@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_angeldvilla_)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2026 Ángel David Villa Luján · Cartago, Colombia</sub>
 </div>
